@@ -1,7 +1,7 @@
 # Hi, I'm Lewis Ngugi Maina 👋
 
 I'm a data engineer & analyst with a background in healthcare 
-and an interest in fintech — passionate about turning complex, 
+and an interest in fintech. I am passionate about turning complex, 
 messy data into reliable pipelines, meaningful insights, and 
 intelligent systems.
 
@@ -62,7 +62,7 @@ Retrieval-Augmented Generation system for Q&A over documents.
 - 💳 Interested in fintech data applications
 - 📊 Currently pursuing Data Engineering at ALX
 - 🌍 Open to remote freelance and internship opportunities
-- 🔬 Former Data Science Intern at Vambo AI — NLP model 
+- 🔬 Former Data Science Intern at Vambo AI - NLP model 
   evaluation for African languages
 
 ---
